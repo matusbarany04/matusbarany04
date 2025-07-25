@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi! 
+
+I’m currently learning  mathematics and how to use android again.
+I’m looking to collaborate on any interesting projects so  
+
+if you want to reach me: matus.barany04@gmail.com
 
 <!--
 **matusbarany04/matusbarany04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
